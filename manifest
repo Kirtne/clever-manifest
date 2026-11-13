@@ -2,11 +2,13 @@
   "files": [
     {
       "name": "CleverAntiCheat.dll",
-      "chksum": "8C474680121B4F53629E13BC54656EA0351DBAE6B8B56FBE35E84519A629CC49"
+      "chksum": "8C474680121B4F53629E13BC54656EA0351DBAE6B8B56FBE35E84519A629CC49",
+      "url": "https://github.com/Kirtne/clever-manifest/releases/download/client-b6d157d3bf3ea718e0e88928011ee30f662f18922b3b5517acdfba095119ff94/8c474680121b4f53629e13bc54656ea0351dbae6b8b56fbe35e84519a629cc49.dll"
     },
     {
       "name": "CleverPlugin.dll",
-      "chksum": "E9EE7FACF1A46C928D34271E65E46AC08B1501C91A2738678A2D8F6C1837CF73"
+      "chksum": "E9EE7FACF1A46C928D34271E65E46AC08B1501C91A2738678A2D8F6C1837CF73",
+      "url": "https://github.com/Kirtne/clever-manifest/releases/download/client-b6d157d3bf3ea718e0e88928011ee30f662f18922b3b5517acdfba095119ff94/e9ee7facf1a46c928d34271e65e46ac08b1501c91a2738678a2d8f6c1837cf73.dll"
     }
   ]
 }
